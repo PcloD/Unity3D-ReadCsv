@@ -1,0 +1,4 @@
+id,name,max_level,cost_type,cost_num,score_default,score_add,gold_default,gold_add,skill_defalut,skill_add,attr_1_defalut,attr_1_add,attr_2_defalut,attr_2_add,attr_3_defalut,attr_3_add,attr_4_defalut,attr_4_add,attr_5_defalut,attr_5_add
+1,霸王龙,80,2,29,10,1,15,1,21;7;13,0,4,0.5,1.5,0.2,30,1,4,0.5,4,0.5
+2,霸王龙,80,2,29,10,1,15,1,21;7;13,0,4,0.5,1.5,0.2,30,1,4,0.5,4,0.5
+3,霸王龙,80,2,29,10,1,15,1,21;7;13,0,4,0.5,1.5,0.2,30,1,4,0.5,4,0.5
